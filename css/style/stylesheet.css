@@ -275,3 +275,31 @@ ul li .home:hover{
 	color: #666;
 
 }
+
+.contacto{
+	background: url('../../img/contacto.jpg');
+	width: 700px;
+	display: block;
+	color: #fff;
+	margin: auto;
+	font-family: 'Rock Salt', cursive;
+	text-align: center;
+}
+
+.contacto h2{
+	padding: 30px;
+}
+
+.contacto input{
+	width: 400px;
+	border: 1px solid #ccc;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+.contacto textarea{
+	width: 400px;
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin: 20px 0;
+}
