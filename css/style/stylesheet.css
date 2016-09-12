@@ -332,3 +332,33 @@ ul li .home:hover{
 	color: #DB3030;
 	border-color: #DB3030;
 }
+
+footer{
+	padding: 20px;
+	text-align: center;
+}
+
+footer div{
+	color: #B0C4DE;
+	padding: 3px;
+	font-size: 15px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+footer div:hover{
+	color: #fed136;
+}
+
+footer img{
+	width: 25px;
+	height: 25px;
+	padding: 5px;
+}
+
+.copy{
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	font-size: 12px;
+}
