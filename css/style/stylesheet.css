@@ -304,14 +304,30 @@ ul li .home:hover{
 	margin: 20px 0;
 }
 
-.contact button{
-	width: 400px;
-	background-color:#fed136;
-	padding: 20px 40px;
-	border-color: #fed136;
-	border-radius: 3px;
+.contacto button{
+	background-color: #DB3030;
+	padding: 10px 40px;
+	font-family: Arial,helvetica;
+	border-color: #DB3030;
+	border-radius: 5px;
 	color: #fff;
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 1;
 	font-weight: bold;
+}
+
+.contacto input:focus{
+	background: #dbf0fd;
+	color: #365264;
+}
+
+.contacto textarea:focus{
+	background: #dbf0fd;
+	color: #365264;	
+}
+
+.contacto button:hover{
+	background-color: #fff;
+	color: #DB3030;
+	border-color: #DB3030;
 }
